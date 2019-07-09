@@ -63,10 +63,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Science
+   date: 2009
+   subject: Information Systems Technology
+   school: University of Tulsa
 
 #This section is optional (as is the image link below)
 #coursera:
