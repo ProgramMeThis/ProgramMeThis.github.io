@@ -104,7 +104,7 @@ github:
 #   flairimageurl: http://stackoverflow.com/users/flair/
 
 intro: |
-  I am a software developer with over 10 years experience working in IT. Along with developing software I've been helping support some larger systems as well (IBM Maximo, Dynamics SL, Cornerstone).
+  I am a software developer with over 10 years experience working in IT. Along with developing software I've been helping support some purchased products such as IBM's Maximo, Microsoft Dynamics SL and Cornerstone Learning Management System. My biggest passion is helping make people's lives easier with the power of technology. Whether that's writing software, buying something off the shelf or simply getting more use out of what you already have.
 #  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
 #  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
 #  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
@@ -112,10 +112,10 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>C#/.Net</strong>: <br/><br/>
-   <strong>SQL</strong>: <br/><br/>
-   <strong>PowerShell</strong>: <br/><br/>
+   <strong>SQL</strong>: SQL and more specifically SQL Server has been a part of everything I've done in the past 10 years. All of the applications I have developed or pruchased products I have implemented have used SQL server for their backend data storage.<br/><br/>
+   <strong>PowerShell</strong>: With part of my time being spent overseeing the help desk along side the software developers, there have been countless times where I've developed a PowerShell script to make the Help Desk more efficient. This ranges from somethign as simple as starting/stopping windows services to completly enabling and setting up BitLocker.<br/><br/>
    <strong>Crystal Reports, SSRS, BIRT</strong>: Between developing applications and supporting purchased applications I've had to write reports with multiple different report writers.<br/><br/>
-   <strong>Power BI</strong>: <br/><br/>
+   <strong>Power BI</strong>: As software solutions get used more and more this creates a lot more data. In order to be able to provide the data in an easy to use fashion for end users, I've been pulling the data together with Power BI.<br/><br/>
    <strong>IBM Maximo</strong>: <br/><br/>
    <strong>Dynamics SL</strong>: <br/><br/>
    <strong>Cornerstone Learning Management System</strong>: I've been the sole IT support person for Cornerstone since it's inception with my company. The main work done with this system is providing an integration with the various systems that house our employee data. Some of this comes from our HR/Payroll system and other parts come from Active Directory.<br/><br/>
