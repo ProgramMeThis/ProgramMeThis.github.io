@@ -115,7 +115,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>C#/.Net</strong>: Most of my career has been spent developing applications with .Net and more specifcally C#. The first few years were spent solely developing Windows Forms applications but as web applications became more popular the switch was made to using ASP.net for the primary development platform. <br/><br/>
+   <strong>C#/.Net</strong>: Most of my career has been spent developing applications with .Net and more specifcally C#. The first few years were spent solely developing Windows Forms applications but as web applications became more popular the switch was made to using ASP.net for the primary development platform with some integrations being solved with Windows services. <br/><br/>
    <strong>SQL</strong>: SQL and more specifically SQL Server has been a part of everything I've done in the past 10 years. All of the applications I have developed or pruchased products I have implemented have used SQL server for their backend data storage.<br/><br/>
    <strong>PowerShell</strong>: With part of my time being spent overseeing the help desk along side the software developers, there have been countless times where I've developed a PowerShell script to make the Help Desk more efficient. This ranges from somethign as simple as starting/stopping windows services to completly enabling and setting up BitLocker.<br/><br/>
    <strong>Crystal Reports, SSRS, BIRT</strong>: Between developing applications and supporting purchased applications I've had to write reports with multiple different report writers.<br/><br/>
