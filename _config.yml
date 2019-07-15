@@ -72,31 +72,6 @@ education:
    subject: Information Systems Technology
    school: University of Tulsa
 
-#This section is optional (as is the image link below)
-#coursera:
-#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-#   courses:
-#    - title: Functional Programming Principles in Scala
-#      link: https://www.coursera.org/course/progfun
-#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-#      date: September 16, 2013
-#    - title: Algorithms Design and Analysis, Part 1
-#      link: https://www.coursera.org/specializations/algorithms
-#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-#      date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-#speakerdeck:
-#   profileurl: https://speakerdeck.com/robhinds
-#   talks:
-#    - title: Product Management for Engineers
-#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#      conference: API Conference, Berlin 2018
-#    - title: Agile Machine Learning - from Theory to Production
-#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-#      conference: W-JAX Conference, Munich 2017 (London 2017)
-
 #List of interesting Github repo/projects to include - optional
 github:
  - ProgramMeThis/Dell-Warranty-Checker
@@ -108,26 +83,14 @@ github:
 
 intro: |
   I am a software developer with over 10 years experience working in various facets of IT. Along with developing software I've been managing development/support teams, automating business processes and helping support purchased products such as IBM's Maximo, Microsoft Dynamics SL and Cornerstone Learning Management System. My biggest passion is helping make people's lives easier with the power of technology. Whether that's writing software, buying something off the shelf or simply getting more use out of what you already have there's almost always some room for improvement.
-#  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-#  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-#  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>C#/.Net</strong>: Most of my career has been spent developing applications with .Net and more specifcally C#. The first few years were spent solely developing Windows Forms applications but as web applications became more popular the switch was made to using ASP.net for the primary development platform with some integrations being solved with Windows services. <br/><br/>
    <strong>SQL</strong>: SQL and more specifically SQL Server has been a part of everything I've done in the past 10 years. All of the applications I have developed or pruchased products I have implemented have used SQL server for their backend data storage.<br/><br/>
    <strong>PowerShell</strong>: With part of my time being spent overseeing the help desk along side the software developers, there have been countless times where I've developed a PowerShell script to make the Help Desk more efficient. This ranges from somethign as simple as starting/stopping windows services to completly enabling and setting up BitLocker.<br/><br/>
-   <strong>Crystal Reports, SSRS, BIRT</strong>: Between developing applications and supporting purchased applications I've had to write reports with multiple different report writers.<br/><br/>
-   <strong>Power BI</strong>: As software solutions get used more and more this creates a lot more data. In order to be able to provide the data in an easy to use fashion for end users, I've been pulling the data together with Power BI.<br/><br/>
-   <strong>IBM Maximo</strong>: I've been the backup support person for Maximo for a few years now.<br/><br/>
-   <strong>Dynamics SL</strong>: I've been the primary support person for Dynamics SL for most of my career. This work mainly consists of writing reports, customizing screens, managing permissions and resolving occasional user problems.<br/><br/>
-   <strong>Cornerstone Learning Management System</strong>: I've been the sole IT support person for Cornerstone since it's inception with my company. The main work done with this system is providing an integration with the various systems that house our employee data. Some of this comes from our HR/Payroll system and other parts come from Active Directory.<br/><br/>
-#   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-#   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-#   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-#   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-#   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-#   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-#   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-#   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-#   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Crystal Reports, SSRS, BIRT</strong>: Between developing applications and supporting purchased applications I've had to write reports with multiple different report writers. Some have been for in-house written applications (SSRS, Crystal Reports) and some have been used for purchased products (BIRT, SSRS, Crystal Repots).<br/><br/>
+   <strong>Power BI</strong>: As software solutions get used more and more this creates a lot more data. In order to be able to provide the data in an easy to use fashion for end users, I've been pulling the data together with Power BI. I created a data warehouse to house the data and have setup Power BI for SQL Server.<br/><br/>
+   <strong>IBM Maximo</strong>: I've been the backup support person for Maximo for a few years. I've written reports using BIRT, modified screens using the application designer and worked with using integrations created in the integration framework.<br/><br/>
+   <strong>Dynamics SL</strong>: I've been the primary support person for Dynamics SL for most of my career. This work mainly consists of writing reports using Crystal Reports, customizing screens, managing permissions and resolving occasional user problems.<br/><br/>
+   <strong>Cornerstone Learning Management System</strong>: I've been the sole IT support person for Cornerstone since it's inception with my current company. The main support work done with this system is providing an integration with the various systems that house our employee data. Some of this comes from our HR/Payroll system and other parts come from Active Directory.<br/><br/>
