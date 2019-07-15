@@ -75,6 +75,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - ProgramMeThis/Dell-Warranty-Checker
+ - ProgramMeThis/SQL-Server-Index-Manager
 
 #Stackoverflow flair is optional
 #stackoverflow:
