@@ -99,8 +99,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - ProgramMeThis/PowerShell-Tornado
- - ProgramMeThis/SQL-Server-Administrator-Laboratory
+ - ProgramMeThis/Dell-Warranty-Checker
 
 #Stackoverflow flair is optional
 #stackoverflow:
