@@ -22,6 +22,8 @@ primarylinks:
 skills:
  - C#
  - .Net
+ - Visual Source Safe
+ - Team Foundation Server
  - PowerShell
  - Active Directory
  - BASH Scripting
@@ -44,26 +46,22 @@ roles:
    start: 2019
    end: Ongoing
    employer: Grand River Dam Authority
-   description: WIP
-#   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   description: With this new role my focus has shifted from managing the help desk and software support team to only managing the software support team. This has allowed me to focus more on the software support and development side of things so that I can provide even better customer service on that side.
  - title: Manager of IT Solution Services 
    start: 2015
    end: 2019
    employer: Grand River Dam Authority
-   description: WIP
-#   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: I managed two main parts of IT; software support and help desk. With both of those groups being under the same direct manager we were able to work seamlessly together and ensure things ran smoothly. In this position I was what I like to call a "Working Manager." I would not only manage the individuals but would also do the work of helping out with the help desk as well as writing/supporting software to meet GRDA's needs. This ranged from developing C# desktop applications to writing PowerShell scripts and helping support our big purchased products like Maximo and Dynamics SL.
  - title: Supt. of Application and Development 
    start: 2013
    end: 2015
    employer: Grand River Dam Authority
-   description: WIP   
-#   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+   description: I managed the corporate IT department which included the support desk and the software developers. Along with my managerial role I still wrote C# software. I mainly wrote windows forms applications, but still continued to write some asp.net webapps. As with my previous position I still was the primary support for Microsoft Dynamics SL and the backup support for Maximo by IBM.   
  - title: Asst. Supt. Programmer 
    start: 2009
    end: 2013
    employer: Grand River Dam Authority
-   description: WIP
-#   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   description: I wrote mainly small applications to fulfill various needs. These applications were all done in C# and used a SQL Server backend when necessary. Most of them so were desktop applications, but my last project in this position was a large asp.net web app. While developing applications I also was the initially the backup support and then became the primary support for Microsoft Dynamics SL and was also backup support for IBM Maximo Asset Management.
 
 #Education is required
 education:
