@@ -69,6 +69,7 @@ education:
    date: 2009
    subject: Information Systems Technology
    school: University of Tulsa
+   description: Test description
 
 #List of interesting Github repo/projects to include - optional
 github:
