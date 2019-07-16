@@ -52,16 +52,11 @@ roles:
    end: 2019
    employer: Grand River Dam Authority
    description: I managed two main parts of IT; software support and help desk. With both of those groups being under the same direct manager we were able to work seamlessly together and ensure things ran smoothly. In this position I was what I like to call a "Working Manager." I would not only manage the individuals but would also do the work of helping out with the help desk as well as writing/supporting software to meet GRDA's needs. This ranged from developing C# desktop applications to writing PowerShell scripts and helping support our big purchased products like Maximo and Dynamics SL.
- - title: Supt. of Application and Development 
+ - title: Superintendent of Application and Development 
    start: 2013
    end: 2015
    employer: Grand River Dam Authority
    description: I managed the corporate IT department which included the support desk and the software developers. Along with my managerial role I still wrote C# software. I mainly wrote windows forms applications, but still continued to write some asp.net webapps. As with my previous position I still was the primary support for Microsoft Dynamics SL and the backup support for Maximo by IBM.
- - title: Asst. Supt. Programmer 
-   start: 2009
-   end: 2013
-   employer: Grand River Dam Authority
-   description: I wrote mainly small applications to fulfill various needs. These applications were all done in C# and used a SQL Server backend when necessary. Most of them so were desktop applications, but my last project in this position was a large asp.net web app. While developing applications I also was the initially the backup support and then became the primary support for Microsoft Dynamics SL and was also backup support for IBM Maximo Asset Management.
  - title: Assistant Superintendent Programmer
    start: 2009
    end: 2013
