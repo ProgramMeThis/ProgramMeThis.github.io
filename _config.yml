@@ -25,7 +25,7 @@ skills:
  - Visual Source Safe
  - Team Foundation Server
  - PowerShell
- - Active Directory
+ - Active Directory & Azure Active Directory
  - BASH Scripting
  - SQL
  - SQL Server
@@ -36,6 +36,10 @@ skills:
  - IBM Maximo
  - Microsoft Dynamics SL
  - Cornerstone Learning Management System
+ - Dynamics 365 Finance and Operations
+ - Dynamics 365 Human Resources
+ - NiFi
+ - Azure DevOps
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://blogtitle.blogspot.com/feeds/posts/default?alt=json
@@ -83,7 +87,7 @@ github:
 #   flairimageurl: http://stackoverflow.com/users/flair/
 
 intro: |
-  I am a software developer with over 10 years experience working in various facets of IT. Along with developing software I've been managing development/support teams, automating business processes and helping support purchased products such as IBM's Maximo, Microsoft Dynamics SL and Cornerstone Learning Management System. My biggest passion is helping make people's lives easier with the power of technology. Whether that's writing software, buying something off the shelf or simply getting more use out of what you already have there's almost always some room for improvement.
+  I am a software developer with over 10 years experience working in various facets of IT. Along with developing software I've been managing development/support teams, automating business processes and helping support purchased products such as IBM's Maximo, Microsoft's Dynamics SL and Cornerstone Learning Management System. My biggest passion is helping make people's lives easier with the power of technology. Whether that's writing software, buying something off the shelf or simply getting more use out of what you already have there's almost always some room for improvement.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
@@ -95,3 +99,5 @@ additionalinfo: |
    <strong>IBM Maximo</strong>: I've been the backup support person for Maximo for a few years. I've written reports using BIRT, modified screens using the application designer and worked with using integrations created in the integration framework.<br/><br/>
    <strong>Dynamics SL</strong>: I've been the primary support person for Dynamics SL for most of my career. This work mainly consists of writing reports using Crystal Reports, customizing screens, managing permissions and resolving occasional user problems.<br/><br/>
    <strong>Cornerstone Learning Management System</strong>: I've been the sole IT support person for Cornerstone since it's inception with my current company. The main support work done with this system is providing an integration with the various systems that house our employee data. Some of this comes from our HR/Payroll system and other parts come from Active Directory.<br/><br/>
+   <strong>Dynamics 365 F&O and Dynamics 365 HR</strong>: I was the lead IT person for rolling out Dynamics 365 F&O and Dynamcis 365 HR. Most of my work consisted of migrating data from the legacy systems, but my hands were in pretty much everything from security to general application setup/configuration.<br/><br/>
+   <strong>NiFi</strong>: I rolled out Apache NiFi to automate various IT processes. This included things like feeding data from our HR system to the learning management system, data validation checks to ensure clean data for Dynamics 365 go-live, and system monitoring to alert for when a system is down.<br/><br/>
